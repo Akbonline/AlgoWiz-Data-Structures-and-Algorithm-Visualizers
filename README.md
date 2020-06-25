@@ -1,0 +1,2 @@
+# AlgoWiz-Data-Structures-and-Algorithm-Visualizers
+AlgoWiz is a Multi-Platform Application that allows users to Visualize various Data Structures and Algorithms. Data Structures included: Including Linked List, Stack, Queues, Tree, Graphs, etc. Algorithms includes: Breadth-First Search, Depth-First Search, Pre, Post, In, and Level-order Traversal(for Trees), Djikstra Shortest Path Algorithm, Prim's and Kruskal's Minimum Spanning tree Algorithm, etc.
