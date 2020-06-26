@@ -90,9 +90,12 @@ These includes:
 
 Feel Free to contact me at akshatbajpai.biz@gmail.com for any kind of comments, feedback, queries, explanations, critics, etc. Do checkout my other complete portfolio at http://akbexpo.blogspot.com/ I would love to hear from you!
 
-## Authors
+## Author
 
-* **Akshat Bajpai** - *Initial work* - [Akbonline](https://github.com/Akbonline)
+* **Akshat Bajpai** - [Akbonline](https://github.com/Akbonline)
+* **Email** - akshatbajpai.biz@gmail.com
+* **Portfolio** - http://akbexpo.blogspot.com/
+* **LinkedIn** - https://www.linkedin.com/in/akshat-bajpai-09/
 
 ## License
 
