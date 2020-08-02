@@ -88,7 +88,13 @@ These includes:
 
 ## Contributing
 
-Feel Free to contact me at akshatbajpai.biz@gmail.com for any kind of comments, feedback, queries, explanations, critics, etc. Do checkout my other complete portfolio at http://akbexpo.blogspot.com/ I would love to hear from you!
+Feel Free to contact me at akshatbajpai.biz@gmail.com (Or just comment on my blogpost at: https://akbexpo.blogspot.com/2020/05/data-structures-and-algorithms.html) for any kind of comments, feedback, queries, explanations, critics, etc. Do checkout my other projects at http://akbexpo.blogspot.com/ I would love to hear from y'all!
+
+## TODO:
+* Improve the Latency: Packaging through pyinstaller is kinda sucky...
+* Make a better OOP model
+* Fix Switching Issues
+* Adding more algorithms to it: Binary & Linear Search/ Sorting Algorithms
 
 ## Author
 
@@ -103,8 +109,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* To my Parents and Guardians for bringing me to planet Earth
 * To all the amazing opensource library contributers, who have a huge hand in driving the technology innovation force forward
-* To Dr. Larry Langley: My Graph Theory instructor at University of the Pacific for helping me understand the algorithms. I've said it before, I'll say it again. Prof. Langley Rocks!!!
-* To my Parents and Guardians for giving birth to me
 * Almighty Google and Lord Quora, Stackoverflow and Reddit
+
 
