@@ -109,7 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* To my Parents and Guardians for bringing me to planet Earth
 * To all the amazing opensource library contributers, who have a huge hand in driving the technology innovation force forward
 * Almighty Google and Lord Quora, Stackoverflow and Reddit
 
